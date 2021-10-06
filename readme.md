@@ -9,3 +9,5 @@ I want to be able to view a video input from my computer in VRChat movie world. 
 
 ### Desired Outcome | Minimum Viable Product ###
 ![Image of a successful private live stream being played in VRChat](https://i.imgur.com/qs6JJZ3.png)
+
+To bypass webvine drm when trying to stream a show privately, disable hardware acceleration in Chrome. This should prevent the screen being black when broadcasting.
