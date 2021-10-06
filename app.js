@@ -9,12 +9,12 @@ const config = {
     ping_timeout: 60
   },
   http: {
-    port: 8000,
+    port: 80,
     mediaroot: './media',
     allow_origin: '*'
   },
   trans: {
-    ffmpeg: '/usr/local/bin/ffmpeg',
+    ffmpeg: '/usr/bin/ffmpeg',
     tasks: [
       {
         app: 'live',
